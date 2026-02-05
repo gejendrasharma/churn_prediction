@@ -27,14 +27,6 @@ This project employs a comprehensive Machine Learning approach, starting from da
 -   **Model Evaluation**: Comprehensive assessment of trained models using metrics such as Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
 -   **Insights & Interpretation**: Analysis of model results to identify the most influential factors contributing to customer churn.
 
-## 🖥️ Sample Visualizations / Results
-
-![Placeholder Screenshot](https://via.placeholder.com/800x400?text=Exploratory+Data+Analysis+Plot)
-*TODO: Replace with actual EDA plots, e.g., churn distribution, correlation matrix, feature importance.*
-
-![Placeholder Screenshot](https://via.placeholder.com/800x400?text=Model+Evaluation+Metrics+or+ROC+Curve)
-*TODO: Replace with actual model evaluation plots, e.g., ROC curve, confusion matrix, or feature importance from a model.*
-
 ## 🛠️ Tech Stack
 
 **Programming Language:**
@@ -129,7 +121,7 @@ Contributions are welcome! If you have suggestions for improvements, bug fixes, 
 
 ## 📄 License
 
-This project is licensed under the [LICENSE_NAME](LICENSE) - see the LICENSE file for details. <!-- TODO: Add a LICENSE file (e.g., MIT, Apache 2.0) -->
+This project is licensed under the [MIT LICENSE](LICENSE) - see the LICENSE file for details. <!-- TODO: Add a LICENSE file (e.g., MIT, Apache 2.0) -->
 
 ## 🙏 Acknowledgments
 
