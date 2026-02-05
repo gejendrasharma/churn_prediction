@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/gejendrasharma/churn_prediction?style=for-the-badge)](https://github.com/gejendrasharma/churn_prediction/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/gejendrasharma/churn_prediction?style=for-the-badge)](https://github.com/gejendrasharma/churn_prediction/network)
 [![GitHub issues](https://img.shields.io/github/issues/gejendrasharma/churn_prediction?style=for-the-badge)](https://github.com/gejendrasharma/churn_prediction/issues)
-[![GitHub license](https://img.shields.io/github/license/gejendrasharma/churn_prediction?style=for-the-badge)](LICENSE) <!-- TODO: Add a LICENSE file -->
+
 
 **Predicting and understanding customer churn using Machine Learning techniques.**
 
